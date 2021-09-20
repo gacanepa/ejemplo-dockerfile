@@ -1,0 +1,13 @@
+h1,
+p {
+  text-align: center;
+}
+
+img,
+select {
+  width: 100px;
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin: 15px auto;
+}
